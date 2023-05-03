@@ -1,5 +1,5 @@
 # CNJAVA
-DOWNLOAD FILE RAR CỦA GAME 
+DOWNLOAD FILE RAR CỦA GAME BẰNG CÁCH ẤN VÀO CODE RỒI DOWNLOAD ZIP
 HƯỚNG DẪN CÀI ĐẶT
 1-CÁCH CÀI ĐẶT PONGGAME VÀO MÁY TÍNH KHÁC CHỈ CÓ JDK
 Để chạy game Pong trên máy tính của bạn, bạn cần thực hiện các bước sau:
